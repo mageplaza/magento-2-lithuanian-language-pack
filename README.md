@@ -117,11 +117,13 @@ To download and install Lithuanian pack manually, you have to access to your ser
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/lt_lt/lt_LT.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/lt_lt/`
 
-See this screenshot
+See this screenshot:
 
 ![Lithuanian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **lt_lt**
 
 #### Step 2: Flush cache
 
