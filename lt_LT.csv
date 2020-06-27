@@ -239,30 +239,30 @@
 "Related Search Terms","Susiję paieškos terminai",module,Magento_AdvancedSearch
 "Add New Search Term","Pridėti naują paieškos terminą",module,Magento_AdvancedSearch
 "button_label","button_label",module,Magento_AdvancedSearch
-"Missing search engine parameter.","Missing search engine parameter.",module,Magento_AdvancedSearch
+"Missing search engine parameter.","Trūksta paieškos variklio parametro.",module,Magento_AdvancedSearch
 "Successful! Test again?","Pavyko! Testuoti vėl?",module,Magento_AdvancedSearch
 "Connection failed! Test again?","Ryšys nutrūko! Testuoti vėl?",module,Magento_AdvancedSearch
 "Enable Search Recommendations","Įjungti paieškos rekomendacijas",module,Magento_AdvancedSearch
-"When you enable this option your site may slow down.","When you enable this option your site may slow down.",module,Magento_AdvancedSearch
-"Search Recommendations Count","Search Recommendations Count",module,Magento_AdvancedSearch
-"Show Results Count for Each Recommendation","Show Results Count for Each Recommendation",module,Magento_AdvancedSearch
+"When you enable this option your site may slow down.","Įjungus šią opciją, galimas svetainės sulėtėjimas.",module,Magento_AdvancedSearch
+"Search Recommendations Count","Paieškos rekomendacijų skaičius",module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation","Rodyti rezultatų skaičių kiekvienai rekomendacijai",module,Magento_AdvancedSearch
 "Enable Search Suggestions","Įjungti paieškos frazių siūlymus",module,Magento_AdvancedSearch
 "Search Suggestions Count","Siūlomų paieškos frazių skaičius",module,Magento_AdvancedSearch
-"Show Results Count for Each Suggestion","Show Results Count for Each Suggestion",module,Magento_AdvancedSearch
-"Related search terms","Related search terms",module,Magento_AdvancedSearch
-"Did you mean","Did you mean",module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion","Rodyti rezultatų skaičių kiekvienam patarimui",module,Magento_AdvancedSearch
+"Related search terms","Susiję paieškos terminai",module,Magento_AdvancedSearch
+"Did you mean","Ar turite galvoje",module,Magento_AdvancedSearch
 "ID","ID",module,Magento_AdvancedSearch
 "Search Query","Paieškos užklausa",module,Magento_AdvancedSearch
 "Store","Parduotuvė",module,Magento_AdvancedSearch
 "Results","Rezultatai",module,Magento_AdvancedSearch
-"Uses","Uses",module,Magento_AdvancedSearch
+"Uses","Naudojimų",module,Magento_AdvancedSearch
 "Redirect URL","Peradresavimo URL",module,Magento_AdvancedSearch
-"Suggested Term","Suggested Term",module,Magento_AdvancedSearch
+"Suggested Term","Siūlomas terminas",module,Magento_AdvancedSearch
 "Yes","Taip",module,Magento_AdvancedSearch
 "No","Ne",module,Magento_AdvancedSearch
 "Action","Veiksmas",module,Magento_AdvancedSearch
 "Edit","Redaguoti",module,Magento_AdvancedSearch
-"Synonym","Synonym",module,Magento_AdvancedSearch
+"Synonym","Sinonimai",module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","RPC call failed, connection timed out after %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Message has been rejected: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Error while checking if topic is synchronous",module,Magento_Amqp
@@ -1457,7 +1457,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Add new card","Add new card",module,Magento_Braintree
 "Please Select","Prašome pasirinkti",module,Magento_Braintree
 "Save this card for future use","Save this card for future use",module,Magento_Braintree
-"or","or",module,Magento_Braintree
+"or","arba",module,Magento_Braintree
 "Please confirm that you want to delete this credit card","Please confirm that you want to delete this credit card",module,Magento_Braintree
 "Cardholder Name","Cardholder Name",module,Magento_Braintree
 "Back","Grįžti",module,Magento_Braintree
@@ -1682,7 +1682,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Please enter the letters and numbers from the image","Please enter the letters and numbers from the image",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Captcha
 "Reload captcha","Atnaujinti",module,Magento_Captcha
-"Please type the letters and numbers below","Please type the letters and numbers below",module,Magento_Captcha
+"Please type the letters and numbers below","Įveskite raides ir skaičius žemiau",module,Magento_Captcha
 "Attention: Captcha is case sensitive.","Attention: Captcha is case sensitive.",module,Magento_Captcha
 "CAPTCHA","CAPTCHA",module,Magento_Captcha
 "Enable CAPTCHA in Admin","Enable CAPTCHA in Admin",module,Magento_Captcha
@@ -1883,7 +1883,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Manage Categories","Manage Categories",module,Magento_Catalog
 "You deleted the category.","You deleted the category.",module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
-"Categories","Categories",module,Magento_Catalog
+"Categories","Kategorijos",module,Magento_Catalog
 "Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
 "There was a category move error.","There was a category move error.",module,Magento_Catalog
 "You moved the category.","You moved the category.",module,Magento_Catalog
@@ -2469,7 +2469,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Products in Category","Products in Category",module,Magento_Catalog
 "Design","Design",module,Magento_Catalog
 "Theme","Theme",module,Magento_Catalog
-"Layout","Layout",module,Magento_Catalog
+"Layout","Išdėstymas",module,Magento_Catalog
 "Layout Update XML","Layout Update XML",module,Magento_Catalog
 "Apply Design to Products","Apply Design to Products",module,Magento_Catalog
 "Schedule Design Update","Schedule Design Update",module,Magento_Catalog
@@ -3149,7 +3149,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The product will be removed from the update and all scheduled changes will be lost.","The product will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogStaging
 "Currently Active","Currently Active",module,Magento_CatalogStaging
 "Products","Prekės",module,Magento_CatalogStaging
-"Categories","Categories",module,Magento_CatalogStaging
+"Categories","Kategorijos",module,Magento_CatalogStaging
 "Path","Path",module,Magento_CatalogStaging
 "Quantity","Kiekis",module,Magento_CatalogStaging
 "Visibility","Matomumas",module,Magento_CatalogStaging
@@ -3960,7 +3960,7 @@ and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.",module,Magento_Company
 "%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative.",module,Magento_Company
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Company
+"When you sign in to your account, you will be able to:","Prisijungę galėsite:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel",module,Magento_Company
 "* View and edit company profile in Admin Panel","* View and edit company profile in Admin Panel",module,Magento_Company
 "Your company account <strong>%company_name</strong> has been blocked.,module,Magento_Company
@@ -4599,7 +4599,7 @@ new products will be created. Use this step to customize images and price for yo
 "Invalid email address","Invalid email address",module,Magento_Contact
 "* Required Fields","* Privalomi laukai",module,Magento_Contact
 "Write Us","Parašykite mums",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Parašykite mums! Atsakysime jums iškart, kai tik galėsime.",module,Magento_Contact
 "Name","Vardas",module,Magento_Contact
 "Email","El. paštas",module,Magento_Contact
 "Phone Number","Telefono numeris",module,Magento_Contact
@@ -5091,20 +5091,20 @@ new products will be created. Use this step to customize images and price for yo
 "Welcome to %store_name","Sveiki atvykę į %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Welcome to %store_name.",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Norėdami prisijungti, naudokite šiuos duomenis kurdami užsakymą arba <a href=""%customer_url"">Paskyra</a> puslapyje:",module,Magento_Customer
 "Email:","El. paštas:",module,Magento_Customer
 "Password:","Slaptažodis:",module,Magento_Customer
-"Password you set when creating account","Password you set when creating account",module,Magento_Customer
+"Password you set when creating account","Slaptažodis kurį nurodėte registruojantis",module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti.",module,Magento_Customer
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Customer
-"Proceed through checkout faster","Proceed through checkout faster",module,Magento_Customer
-"Check the status of orders","Check the status of orders",module,Magento_Customer
-"View past orders","View past orders",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Customer
+"When you sign in to your account, you will be able to:","Prisijungę galėsite:",module,Magento_Customer
+"Proceed through checkout faster","Greičiau apsipirkti",module,Magento_Customer
+"Check the status of orders","Tikrinti užsakymų būklę",module,Magento_Customer
+"View past orders","Peržiūrėti buvusius užsakymus",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Nustatyti alternatyvius pristatymo adresus, kad prekės galėtų būti pristatytos šeimos nariams ar draugams",module,Magento_Customer
 "Please confirm your %store_name account","Please confirm your %store_name account",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","You must confirm your %customer_email email before you can sign in (link is only valid once):",module,Magento_Customer
 "Confirm Your Account","Patvirtinkite savo paskyrą",module,Magento_Customer
-"Thank you for confirming your %store_name account.","Thank you for confirming your %store_name account.",module,Magento_Customer
+"Thank you for confirming your %store_name account.","Dėkojame patvirtinus %store_name paskyrą.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:",module,Magento_Customer
 "Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
 "Hello,","Hello,",module,Magento_Customer
@@ -5132,7 +5132,7 @@ new products will be created. Use this step to customize images and price for yo
 "Weak","Silpnas",module,Magento_Customer
 "Medium","Vidutinis",module,Magento_Customer
 "Strong","Stiprus",module,Magento_Customer
-"Very Strong","Very Strong",module,Magento_Customer
+"Very Strong","Labai stiprus",module,Magento_Customer
 "Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
 "All Customers","All Customers",module,Magento_Customer
 "Now Online","Now Online",module,Magento_Customer
@@ -6042,7 +6042,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "All Files","Visi failai",module,Magento_Downloadable
 "Unlimited","Unlimited",module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","Mano Download'ai",module,Magento_Downloadable
+"My Downloadable Products","Mano atsisiunčiami produktai",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -6119,7 +6119,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Availability","Prieinamumas",module,Magento_Downloadable
 "In stock","Sandėlyje",module,Magento_Downloadable
 "Out of stock","Nėra sandėlyje",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Eiti į <a href=""%1"">Mano atsisiunčiamus produktus</a>",module,Magento_Downloadable
 "Downloadable Products","Downloadable Products",module,Magento_Downloadable
 "Order #","Užsakymo nr.",module,Magento_Downloadable
 "Date","Data",module,Magento_Downloadable
@@ -6127,7 +6127,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
 "View Order","Peržiūrėti užsakymą",module,Magento_Downloadable
 "Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","Jūs nepirkote jokių download'ų dar.",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Jūs neturite atsiunčiamų produktų.",module,Magento_Downloadable
 "Back","Grįžti",module,Magento_Downloadable
 "download","download",module,Magento_Downloadable
 "Gift Message","Gift Message",module,Magento_Downloadable
@@ -10013,7 +10013,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
 "Remember Me","Prisiminti mane",module,Magento_Persistent
 "What's this?","Kas tai?",module,Magento_Persistent
-"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Pažymėti &quot;prisiminti mane&quot;, kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos.",module,Magento_Persistent
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Pažymėti ""prisiminti mane"", kad galėtumėt prieiti prie jūsų pirkinių krepšelio šiame kompiuteryje, net jei jūs neprisijungęs prie savo sąskaitos.",module,Magento_Persistent
 "Persistent Shopping Cart","Persistent Shopping Cart",module,Magento_Persistent
 "General Options","General Options",module,Magento_Persistent
@@ -10071,8 +10071,8 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Error Email Recipient","Error Email Recipient",module,Magento_ProductAlert
 "Error Email Sender","Error Email Sender",module,Magento_ProductAlert
 "Error Email Template","Error Email Template",module,Magento_ProductAlert
-"Notify me when the price drops","Notify me when the price drops",module,Magento_ProductAlert
-"Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert
+"Notify me when the price drops","Praneškite man, kai kaina kris",module,Magento_ProductAlert
+"Notify me when this product is in stock","Praneškite man, kai ši prekės atsiras sandėlyje",module,Magento_ProductAlert
 "Sign up for price alert","Sign up for price alert",module,Magento_ProductAlert
 "Sign up to be notified when this product is back in stock.","Sign up to be notified when this product is back in stock.",module,Magento_ProductAlert
 "The alert subscription couldn't update at this time. Please try again later.","The alert subscription couldn't update at this time. Please try again later.",module,Magento_ProductAlert
@@ -12297,7 +12297,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Custom Price","Custom Price",module,Magento_Sales
 "Please select","Prašome pasirinkti",module,Magento_Sales
 "Move to Shopping Cart","Move to Shopping Cart",module,Magento_Sales
-"Move to Wish List","Perkelti į pageidavimų sąrašą",module,Magento_Sales
+"Move to Wish List","Pridėti į norų sąrašą",module,Magento_Sales
 "Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Sales
 "Click to change shipping method","Click to change shipping method",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order.",module,Magento_Sales
@@ -13164,7 +13164,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Delete","Ištrinti",module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 "View/Edit","View/Edit",module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
+"Search entire store here...","Paieška...",module,Magento_Search
 "There are no search terms available.","Nėra jokių paieškos terminų.",module,Magento_Search
 "Search Engine","Search Engine",module,Magento_Search
 "CSV","CSV",module,Magento_Search
@@ -14686,16 +14686,16 @@ than a customer might expect. ",module,Magento_Tax
 "Minute","Minute",module,Magento_Theme
 "%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Welcome to %store_name.",module,Magento_Theme
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Theme
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Norėdami prisijungti, naudokite šiuos duomenis kurdami užsakymą arba <a href=""%customer_url"">Paskyra</a> puslapyje:",module,Magento_Theme
 "Email:","El. paštas:",module,Magento_Theme
 "Password:","Slaptažodis:",module,Magento_Theme
-"Password you set when creating account","Password you set when creating account",module,Magento_Theme
+"Password you set when creating account","Slaptažodis kurį nurodėte registruojantis",module,Magento_Theme
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti.",module,Magento_Theme
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Theme
-"Proceed through checkout faster","Proceed through checkout faster",module,Magento_Theme
-"Check the status of orders","Check the status of orders",module,Magento_Theme
-"View past orders","View past orders",module,Magento_Theme
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Theme
+"When you sign in to your account, you will be able to:","Prisijungę galėsite:",module,Magento_Theme
+"Proceed through checkout faster","Greičiau apsipirkti",module,Magento_Theme
+"Check the status of orders","Tikrinti užsakymų būklę",module,Magento_Theme
+"View past orders","Peržiūrėti buvusius užsakymus",module,Magento_Theme
+"Store alternative addresses (for shipping to multiple family members and friends)","Nustatyti alternatyvius pristatymo adresus, kad prekės galėtų būti pristatytos šeimos nariams ar draugams",module,Magento_Theme
 "We could not detect a size.","We could not detect a size.",module,Magento_Theme
 "We don't recognize this file extension.","We don't recognize this file extension.",module,Magento_Theme
 "Home","Pradžia",module,Magento_Theme
@@ -15983,7 +15983,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Sort Order","Rūšiavimo tvarka",module,Magento_Widget
 "Sort Order of widget instances in the same container","Sort Order of widget instances in the same container",module,Magento_Widget
 "Layout Updates","Layout Updates",module,Magento_Widget
-"Categories","Categories",module,Magento_Widget
+"Categories","Kategorijos",module,Magento_Widget
 "Anchor Categories","Anchor Categories",module,Magento_Widget
 "Non-Anchor Categories","Non-Anchor Categories",module,Magento_Widget
 "All Product Types","All Product Types",module,Magento_Widget
@@ -16096,7 +16096,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Share Wish List","Dalintis norų sąrašu",module,Magento_Wishlist
 "Add All to Cart","Viską į krepšelį",module,Magento_Wishlist
 "Update Wish List","Atnaujinti norų sąrašą",module,Magento_Wishlist
-"Move to Wishlist","Perkelti į norų sąrašą",module,Magento_Wishlist
+"Move to Wishlist","Pridėti į norų sąrašą",module,Magento_Wishlist
 "Add to Wish List","Į pageidavimų sąrašą",module,Magento_Wishlist
 "View Product","View Product",module,Magento_Wishlist
 "Qty","Kiekis",module,Magento_Wishlist
@@ -16223,73 +16223,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Santrauka",theme,frontend\Magento\blank
-"Account Dashboard","Paskyros skydelis",theme,frontend\Magento\blank
-"Account Information","Mano Informacija",theme,frontend\Magento\blank
-"Address Book","Mano Adresai",theme,frontend\Magento\blank
-"Menu","Meniu",theme,frontend\Magento\blank
-"Account","Paskyra",theme,frontend\Magento\blank
-"Settings","Nustatymai",theme,frontend\Magento\blank
-"Now Shopping by","Now Shopping by",theme,frontend\Magento\luma
-"Previous","Ankstesnis",theme,frontend\Magento\luma
-"Remove","Pašalinti",theme,frontend\Magento\luma
-"Remove This Item","Pašalinti šią prekę",theme,frontend\Magento\luma
-"Shop By","Shop By",theme,frontend\Magento\luma
-"Clear All","Išvalyti viską",theme,frontend\Magento\luma
-"Shopping Options","Shopping Options",theme,frontend\Magento\luma
-"Welcome to %store_name","Sveiki atvykę į %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Welcome to %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend\Magento\luma
-"Email:","El. paštas:",theme,frontend\Magento\luma
-"Password:","Slaptažodis:",theme,frontend\Magento\luma
-"Password you set when creating account","Password you set when creating account",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend\Magento\luma
-"Quick Checkout","Greitas užsakymas",theme,frontend\Magento\luma
-"Proceed through checkout faster","Proceed through checkout faster",theme,frontend\Magento\luma
-"Order Status","Užsakymo būsena",theme,frontend\Magento\luma
-"Check the status of orders","Check the status of orders",theme,frontend\Magento\luma
-"Manage Addresses","Redaguoti adresus",theme,frontend\Magento\luma
-"Store alternative addresses","Store alternative addresses",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend\Magento\luma
-"Order History","Užsakymų istorija",theme,frontend\Magento\luma
-"View past orders","View past orders",theme,frontend\Magento\luma
-"Footer","Footer",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Dėkojame už jūsų užsakymą iš %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend\Magento\luma
-"Billing Info","Atsiskaitymo informacija",theme,frontend\Magento\luma
-"Shipping Info","Pristatymo informacija",theme,frontend\Magento\luma
-"Payment Method","Mokėjimo būdas",theme,frontend\Magento\luma
-"Shipping Method","Pristatymo būdas",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
-"Account Dashboard","Paskyros skydelis",theme,frontend\Magento\luma
-"Address Book","Mano Adresai",theme,frontend\Magento\luma
-"Account Information","Mano Informacija",theme,frontend\Magento\luma
-"About Us","Apie mus",theme,frontend\Magento\luma
-"Customer Service","Customer Service",theme,frontend\Magento\luma
-"My Account","Mano paskyra",theme,frontend\Magento\luma
+"Summary","Santrauka",theme,frontend/Magento/blank
+"Account Dashboard","Paskyros skydelis",theme,frontend/Magento/blank
+"Account Information","Mano Informacija",theme,frontend/Magento/blank
+"Address Book","Mano Adresai",theme,frontend/Magento/blank
+"Menu","Meniu",theme,frontend/Magento/blank
+"Account","Paskyra",theme,frontend/Magento/blank
+"Settings","Nustatymai",theme,frontend/Magento/blank
+"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
+"Previous","Ankstesnis",theme,frontend/Magento/luma
+"Remove","Pašalinti",theme,frontend/Magento/luma
+"Remove This Item","Pašalinti šią prekę",theme,frontend/Magento/luma
+"Shop By","Shop By",theme,frontend/Magento/luma
+"Clear All","Išvalyti viską",theme,frontend/Magento/luma
+"Shopping Options","Shopping Options",theme,frontend/Magento/luma
+"Welcome to %store_name","Sveiki atvykę į %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Norėdami prisijungti, naudokite šiuos duomenis kurdami užsakymą arba <a href=""%customer_url"">Paskyra</a> puslapyje:",theme,frontend/Magento/luma
+"Email:","El. paštas:",theme,frontend/Magento/luma
+"Password:","Slaptažodis:",theme,frontend/Magento/luma
+"Password you set when creating account","Slaptažodis kurį nurodėte registruojantis",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Pamiršote savo slaptažodį? Spustelėkite <a href=""%reset_url""> čia</a> norėdami jį atkurti.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Prisijungę galėsite:",theme,frontend/Magento/luma
+"Quick Checkout","Greitas užsakymas",theme,frontend/Magento/luma
+"Proceed through checkout faster","Greičiau apsipirkti",theme,frontend/Magento/luma
+"Order Status","Užsakymo būsena",theme,frontend/Magento/luma
+"Check the status of orders","Tikrinti užsakymų būklę",theme,frontend/Magento/luma
+"Manage Addresses","Redaguoti adresus",theme,frontend/Magento/luma
+"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
+"Order History","Užsakymų istorija",theme,frontend/Magento/luma
+"View past orders","Peržiūrėti buvusius užsakymus",theme,frontend/Magento/luma
+"Footer","Footer",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Dėkojame už jūsų užsakymą iš %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Atsiskaitymo informacija",theme,frontend/Magento/luma
+"Shipping Info","Pristatymo informacija",theme,frontend/Magento/luma
+"Payment Method","Mokėjimo būdas",theme,frontend/Magento/luma
+"Shipping Method","Pristatymo būdas",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Account Dashboard","Paskyros skydelis",theme,frontend/Magento/luma
+"Address Book","Mano Adresai",theme,frontend/Magento/luma
+"Account Information","Mano Informacija",theme,frontend/Magento/luma
+"About Us","Apie mus",theme,frontend/Magento/luma
+"Customer Service","Customer Service",theme,frontend/Magento/luma
+"My Account","Mano paskyra",theme,frontend/Magento/luma
 "Backup options","Backup options",lib,web
 "Warning","Warning",lib,web
 "Cancel","Atšaukti",lib,web
